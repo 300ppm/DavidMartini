@@ -7,13 +7,13 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
+      - icon: mastodon
+        href: https://mastodon.social/@david_martini
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/David__Martini
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
 
 editor: visual
